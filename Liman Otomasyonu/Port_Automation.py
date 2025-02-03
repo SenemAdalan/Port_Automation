@@ -246,14 +246,3 @@ cikis = tk.Button(root, text="5. Çıkış", command=cikis)
 cikis.place(relx=0.5, rely=0.7, anchor=tk.CENTER)
 
 root.mainloop()
-
-
-
-
-
-
-
-
-
-
-
