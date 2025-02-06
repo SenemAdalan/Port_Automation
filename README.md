@@ -19,8 +19,8 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 
 ### Gereksinimler
 - Python 3.x
-- pandas kütüphanesi
-- tkinter kütüphanesi
+-  ```pandas``` kütüphanesi
+- ```tkinter``` kütüphanesi
 
 ### Kurulum
 1. Repoyu klonlayın:
