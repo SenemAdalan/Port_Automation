@@ -5,6 +5,7 @@ Bu proje bir liman otomasyon sistemini simüle eder. Tırların ve gemilerin yö
 ## 📋 Proje Açıklaması
 - **Yapılış Tarihi:** 7 Aralık 2023  
 - **Son Güncelleme:** 6 Şubat 2025
+ 
 Proje bir limanın günlük operasyonlarını otomatikleştirmek için tasarlanmıştır. Tırlar, limana belirli zamanlarda gelir ve yüklerini istif alanına bırakır. Gemiler, bu yükleri alarak hedef ülkelere taşır. Sistem, tır ve gemi bilgilerini CSV dosyalarından okur ve bu bilgileri kullanarak simülasyonu gerçekleştirir.
 
 ## 🌟 Ana Özellikler
